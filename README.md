@@ -10,6 +10,8 @@
 This script is a fork of Guilouz awesome Creality Helper Script with modifications to accomodate new code as found in the new K1 series CFS Upgrade Kit firmware (v2.3.5.33).  
 This script is intended for use on Creality **K1 Series** printers with **CFS Upgrade Kit Firmware** and my modifcations are mainly for the START_PRINT macro routine.
 
+START_PRINT modifications got from https://github.com/Nik-oli/Creality-Helper-Script-K1-CFS
+
 Some modules currently untested so use at your own risk.  
 If you encounter errors please uninstall any modules you installed and factory reset your printer as per the original Guilouz Helper Script Wiki.
 
